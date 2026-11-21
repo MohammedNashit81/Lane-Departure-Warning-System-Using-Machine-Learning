@@ -195,6 +195,15 @@ It is used to classify the vehicle's lane status based on the extracted lane-rel
 
 ---
 
+Outputs:
+
+Within Lane Output:
+![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/92db601df6241d0c1ea14f6f65180edd8cad90ba/Screenshot%202026-11-21%20182157.png)
+
+
+Lane Departure Output:
+![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/92db601df6241d0c1ea14f6f65180edd8cad90ba/Screenshot%202026-11-21%20180606.png)
+
 ## 📊 Model Evaluation
 
 The model is evaluated using testing data.
