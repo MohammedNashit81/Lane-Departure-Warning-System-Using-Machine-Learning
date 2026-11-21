@@ -145,6 +145,9 @@ If the predicted lane status indicates deviation, the system displays a lane dep
 This provides a visual indication that the vehicle may be moving away from its intended lane.
 
 ---
+Calculated Lane and Vehicle Center
+
+![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/d7bf74946feb17344cf4490180a0944f3ff0270d/Screenshot%202026-11-21%20182056.png)
 
 ## 🔊 Voice Alert System
 
