@@ -13,6 +13,11 @@ It also integrates **Google Text-to-Speech (gTTS)** to provide voice-based warni
 The main objective is to improve driver awareness by identifying potential lane departure and generating visual and audio alerts.
 
 ---
+Applying Filters to extract Region of Intrest
+
+![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/b3e08c72b94193dbe7ba968ad8b8d2cd07184eb8/Screenshot%202026-11-21%20182329.png)
+
+---
 
 ## 🎯 Project Objectives
 
