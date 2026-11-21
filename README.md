@@ -40,8 +40,6 @@ Drawing Lane Boundaries
 
 ## 📂 Dataset
 
-## 📂 Dataset
-
 This project uses the TuSimple Lane Detection Dataset, which contains road images captured from a vehicle-mounted camera.
 
 The dataset includes:
