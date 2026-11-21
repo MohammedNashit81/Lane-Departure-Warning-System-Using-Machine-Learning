@@ -40,21 +40,18 @@ Drawing Lane Boundaries
 
 ## 📂 Dataset
 
-This project uses the **TuSimple Lane Detection Dataset**.
+## 📂 Dataset
 
-The dataset contains road images captured from a vehicle-mounted camera and annotation files containing lane information.
+This project uses the TuSimple Lane Detection Dataset, which contains road images captured from a vehicle-mounted camera.
 
-### Dataset Annotation
+The dataset includes:
 
-The annotation files are stored in JSON format.
+- Training images: 3,626
+- Validation images: 358
+- Testing images: 2,782
+- Total: 6,766 images
 
-Important annotation fields:
-
-- `raw_file` – Path of the road image.
-- `lanes` – X-coordinate values representing lane markings.
-- `h_samples` – Corresponding Y-coordinate values for lane points.
-
-These annotations provide the lane positions required for feature extraction.
+The road images are used to extract lane-related features for the Lane Departure Warning System.
 
 ---
 
