@@ -1,5 +1,7 @@
 # 🚗 Lane Departure Warning System Using Machine Learning
 
+![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/531c339449d152e6baf91ad0e83e9e9dceff7f16/csm_lane_20departure_20warning_e03c28b9ca.jpg)
+
 ## 📌 Project Overview
 
 This project develops a Python-based **Lane Departure Warning System (LDWS)** using Machine Learning and Computer Vision concepts.
