@@ -18,7 +18,11 @@ Applying Filters to extract Region of Intrest
 ![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/b3e08c72b94193dbe7ba968ad8b8d2cd07184eb8/Screenshot%202026-11-21%20182329.png)
 
 ---
+Drawing Lane Boundaries 
 
+![image alt](https://github.com/MohammedNashit81/Lane-Departure-Warning-System-Using-Machine-Learning/blob/c66156ca9775d090c97bbca2df26cd8e5fb89d83/Screenshot%202026-11-21%20182036.png)
+
+---
 ## 🎯 Project Objectives
 
 - Analyze road images and lane annotations.
